@@ -1,6 +1,7 @@
 
 # Project Title
-TENTATIVE
+(Tentative) Implementation and parallelization of Redfield equations
+
 ## Project Team
 * Florian Hasse 
 * Hannah Sim

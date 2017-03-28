@@ -1,6 +1,6 @@
 
 # Project Title
-(Tentative) Implementation and parallelization of Redfield equations
+Implementation and parallelization of Redfield equations
 
 ## Project Team
 * Florian Hasse 
